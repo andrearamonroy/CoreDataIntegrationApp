@@ -4,7 +4,7 @@ To implement the CRUD method (Create/Read/Update/Delete), Core Data uses what is
 This app implements the MVVM Architecture, the app allows the user to add fruits to an empty list, save the fruits when added, update, and delete. Also, it saves the changes when the user quits the app.
 
 Therefore, the persistence container and Fruit entity is created.
-The user is able to add a fruit to the list and the data persist even when they quit the app because the data is being saved to Core Data.
+The user is able to add a fruit to the list and the data persists even when they quit the app because the data is being saved to Core Data.
 Any changes, such as update and delete are also saved to Core Data. 
  
 
